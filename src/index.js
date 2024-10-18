@@ -28,4 +28,4 @@ let nivel = "";
         }
         return `O Herói tem de saldo de ${saldo} está no nível de ${nivel}`
 }
-console.log(resultadoDeJogo(76, 25))
+console.log(resultadoDeJogo(76, 22))
